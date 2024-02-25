@@ -4,3 +4,5 @@ b. User Processes
 c. User utility programs
 d. Compilers
 e. System shared libraries
+f. Linux kernel
+g. Loadable kernel modules
