@@ -1,0 +1,4 @@
+Aplikasi ERP umumnya mencakup modul-modul seperti:
+a. Modul Keuangan
+b. Modul Sumber Daya Manusia (SDM)
+c. Modul Persediaan dan Manajemen Gudang
