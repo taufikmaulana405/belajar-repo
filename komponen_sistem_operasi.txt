@@ -2,7 +2,7 @@ Berikut adalah penjelasan singkat mengenai setiap komponen Sistem Operasi:
 a. System-management programs
     Program-program ini bertanggung jawab untuk mengelola dan mengatur operasi sistem secara keseluruhan. Mereka dapat melibatkan tugas seperti manajemen memori, manajemen file, dan manajemen proses.
 b. User Processes
-    Proses-proses ini mewakili program-program atau tugas-tugas yang sedang berjalan oleh pengguna.
+    Proses-proses ini mewakili program-program atau tugas-tugas yang sedang berjalan oleh pengguna. Mereka dapat termasuk aplikasi-aplikasi seperti peramban web, editor teks, atau program lain yang dijalankan oleh pengguna.
 c. User utility programs
 d. Compilers
 e. System shared libraries
