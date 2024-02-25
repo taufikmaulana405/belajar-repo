@@ -1,0 +1,6 @@
+karakteristrik data di data warehouse:
+    a. Subject oriented
+        Data di dalam data warehouse disusun dan diorganisir berdasarkan subjek atau topik tertentu, bukan berdasarkan proses atau aplikasi.
+    b. Terintegrasi
+    c. Varian waktu
+    d. Non Volatile
