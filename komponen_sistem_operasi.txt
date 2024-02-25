@@ -2,3 +2,5 @@ Berikut adalah penjelasan singkat mengenai setiap komponen Sistem Operasi:
 a. System-management programs
 b. User Processes
 c. User utility programs
+d. Compilers
+e. System shared libraries
