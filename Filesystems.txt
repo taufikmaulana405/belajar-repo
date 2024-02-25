@@ -1,0 +1,2 @@
+FAT: Digunakan terutama pada sistem operasi MS-DOS, Windows 95, 98, ME, dan masih digunakan pada perangkat penyimpanan portabel.
+NTFS: Digunakan pada sistem operasi keluarga Windows, mulai dari Windows NT hingga versi terbaru, dengan fitur-fitur keamanan dan pemulihan yang lebih canggih.
