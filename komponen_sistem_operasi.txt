@@ -4,6 +4,7 @@ a. System-management programs
 b. User Processes
     Proses-proses ini mewakili program-program atau tugas-tugas yang sedang berjalan oleh pengguna. Mereka dapat termasuk aplikasi-aplikasi seperti peramban web, editor teks, atau program lain yang dijalankan oleh pengguna.
 c. User utility programs
+    Program-program ini dapat menyediakan utilitas atau alat-alat bantu yang berguna bagi pengguna.
 d. Compilers
 e. System shared libraries
 f. Linux kernel
