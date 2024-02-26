@@ -1,0 +1,1 @@
+Ketidakkonsistenan data dan kehilangan data adalah dua masalah utama dalam sistem komputer dan basis data.
